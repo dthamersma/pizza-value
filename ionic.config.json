@@ -1,0 +1,8 @@
+{
+  "name": "PizzaValue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "16fd767d"
+}
